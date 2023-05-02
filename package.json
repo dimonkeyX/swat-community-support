@@ -1,0 +1,20 @@
+{
+  "name": "swat4-community-support",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "dimonkey",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.61",
+    "@vuepress/plugin-git": "^2.0.0-beta.61",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.61",
+    "@vuepress/plugin-search": "^2.0.0-beta.61",
+    "vuepress": "^2.0.0-beta.61"
+  }
+}
